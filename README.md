@@ -1,44 +1,36 @@
-Portfolio Website Project
-Objective
-Build a responsive portfolio website that effectively showcases your skills, projects, and experience. The website should be visually appealing and seamlessly adapt to different screen sizes.
-How to Use
-Clone the repository to your local machine.
+# Portfolio Website Project
 
-features
+## Objective
 
-Certainly, Raki! Below is a simple readme template for your GitHub project based on the provided information:
-
-Portfolio Website Project
-Objective
 Build a responsive portfolio website that effectively showcases your skills, projects, and experience. The website should be visually appealing and seamlessly adapt to different screen sizes.
 
-Requirements
-Home Page:
+## Requirements
 
-Introduction
-Summary of skills
-Call-to-action button leading to the portfolio section.
-Portfolio Section:
+### Home Page:
 
-Display at least three projects with details.
-Include project descriptions and technologies used.
-Skills Section:
+- Introduction
+- Summary of skills
+- Call-to-action button leading to the portfolio section.
 
-Showcase technical skills using appropriate visuals (e.g., graphs, icons).
-Contact Form:
+### Portfolio Section:
 
-Implement a contact form with fields for name, email, and a message.
-Responsive Design:
+- Display at least three projects with details.
+- Include project descriptions and technologies used.
 
-Ensure the website is fully responsive and works well on desktop, tablet, and mobile devices.
+### Skills Section:
 
-bash
-Copy code
-git clone [repository_url]
-Open the project folder and navigate to the index.html file.
+- Showcase technical skills using appropriate visuals (e.g., graphs, icons).
 
-Open index.html in your preferred web browser to view the portfolio website.
+### Contact Form:
 
-Contribution
-Feel free to contribute by submitting issues or pull requests.
+- Implement a contact form with fields for name, email, and a message.
 
+### Responsive Design:
+
+- Ensure the website is fully responsive and works well on desktop, tablet, and mobile devices.
+
+## How to Use
+
+1. Clone the repository to your local machine.
+   ```bash
+   git clone [repository_url]
